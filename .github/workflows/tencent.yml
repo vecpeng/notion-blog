@@ -39,8 +39,8 @@ jobs:
             # 源目录，相对于$GITHUB_WORKSPACE根目录的路径
             SOURCE: "./" 
             # 服务器域名
-            REMOTE_HOST: "159.75.43.143"
+            REMOTE_HOST: "124.222.203.213"
             # 腾讯云默认用户名为root
             REMOTE_USER: "ubuntu" 
             # 目标目录
-            TARGET: "/home/ubuntu/nextjs-notion-starter-kit" 
+            TARGET: "/home/ubuntu/notion-blog" 

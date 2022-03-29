@@ -2,7 +2,7 @@
  * @Author: vecpeng
  * @Date: 2022-03-29 12:39:39
  * @LastEditors: vecpeng
- * @LastEditTime: 2022-03-29 13:34:06
+ * @LastEditTime: 2022-03-29 18:11:08
  * @FilePath: /nextjs-notion-starter-kit/site.config.js
  * @Desc: 
  * 
@@ -18,7 +18,7 @@ export default {
 
   // basic site info (required)
   name: 'vecpeng',
-  domain: 'blog.vecpeng.com',
+  domain: 'vecpeng.com',
   author: 'vecpeng',
 
   // open graph metadata (optional)
